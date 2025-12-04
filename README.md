@@ -19,7 +19,7 @@ Para testar ou desenvolver esta API localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://www.youtube.com/watch?v=aVFHpD86RJQ](https://www.youtube.com/watch?v=aVFHpD86RJQ)
+    git clone (https://github.com/josefernandob/backend-api-crud))
     cd backend-api-crud
     ```
 
